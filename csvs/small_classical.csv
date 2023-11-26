@@ -1,0 +1,8 @@
+embed_type,embed_dim,model_type,num_layers,hidden_size,log_dir
+random,10,rnn,1,20,classical_7030/rnn_1_10_20
+random,9,lstm,1,9,classical_7030/lstm_1_9_9
+random,10,gru,1,10,classical_7030/gru_1_10_10
+random,1,rnn,1,1,classical_7030/rnn_1_1_1
+random,5,rnn,1,6,classical_7030/rnn_1_5_6
+random,3,lstm,1,4,classical_7030/lstm_1_3_4
+random,4,gru,1,4,classical_7030/gru_1_4_4

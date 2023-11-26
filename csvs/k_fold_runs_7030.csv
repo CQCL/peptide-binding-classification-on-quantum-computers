@@ -1,0 +1,12 @@
+log_dir,embed_type,encoder_ansatz,encoder_layers,reupload_count,n_wires,measure,final
+cross_val_runs_7030/rerun_random_sim9_3_1_4_single_linear,random,sim9,3,1,4,single,linear
+cross_val_runs_7030/rerun_random_sim9_2_1_2_single_rescale,random,sim9,2,1,2,single,rescale
+cross_val_runs_7030/rerun_random_sim9_2_1_2_single_linear,random,sim9,2,1,2,single,linear
+cross_val_runs_7030/rerun_pure_sim14_1_1_2_single_linear,pure,sim14,1,1,2,single,linear
+cross_val_runs_7030/rerun_random_sim9_1_1_2_single_rescale,random,sim9,1,1,2,single,rescale
+cross_val_runs_7030/rerun_random_sim9_1_1_2_single_linear,random,sim9,1,1,2,single,linear
+cross_val_runs_7030/rerun_random_sim9_1_1_4_all_linear,random,sim9,1,1,4,all,linear
+cross_val_runs_7030/rerun_random_sim9_2_1_2_all_linear,random,sim9,2,1,2,all,linear
+cross_val_runs_7030/rerun_pure_sim14_1_1_2_all_linear,pure,sim14,1,1,2,all,linear
+cross_val_runs_7030/rerun_random_sim9_1_1_2_all_linear,random,sim9,1,1,2,all,linear
+cross_val_runs_7030/rerun_random_sim8_1_1_4_all_linear,random,sim8,1,1,4,all,linear
